@@ -1,5 +1,5 @@
 # Pizza-Client-Supporter
-Latest version of pizza client supporter version
+Latest version of pizza client premium 
 
 ## GUI Screenshot
 ![Screenshot](https://media.discordapp.net/attachments/1072949147767947275/1107711034623524936/image.png?width=1144&height=676)
